@@ -15,7 +15,7 @@
 
 <h3>Languages:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,c#,c++,python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,cs,cpp,python)
 <hr>
 
 <!--
