@@ -31,7 +31,9 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,webstorm,arduino,git,github,figma,azure,jira)
 <hr>
 <div align="center">
-<h3  ⬇ Click on the picture below to visit my LinkedIn profile ⬇</h3>
+
+  
+<h3> ⬇ Click on the picture below to visit my LinkedIn profile ⬇</h3>
 <br>
 
 
