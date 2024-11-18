@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there 👋, My name is Ensar Mulahmetović </h1>
 
-<h3 align="center"> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology  </h3> 
+<h2 align="center"> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology  </h2> 
 
-<hr>
 
 <h4>
   
@@ -10,6 +9,8 @@
 </h4>
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Ensar01%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Visitors&style=upper)
+
+<hr>
 
 <!--
 **Ensar01/Ensar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
