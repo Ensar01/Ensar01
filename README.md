@@ -33,7 +33,7 @@
 <div align="center">
 
   
-<h3> ⬇ Click on the picture below to visit my LinkedIn profile ⬇</h3>
+<h3> ⬇ Click on the icon below to visit my LinkedIn profile ⬇</h3>
 <br>
 
 
