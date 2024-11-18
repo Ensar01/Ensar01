@@ -35,7 +35,7 @@
 <br>
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
+![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
 
 
 <!--
