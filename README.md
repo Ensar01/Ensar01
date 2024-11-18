@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋, My name is Ensar Mulahmetović </h1>
 
-<h2 align="center"> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology  </h2> 
+<h3 align="center"> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology  </h3> 
 
+<hr>
 
 <h4>
   
@@ -10,6 +11,11 @@
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Ensar01%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Visitors&style=upper)
 
+<hr>
+
+<h3>Languages:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,c#,c++,python)
 <hr>
 
 <!--
