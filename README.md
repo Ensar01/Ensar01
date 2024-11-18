@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there 👋, My name is Ensar Mulahmetović </p>
+<h1 align="center"> Hi there 👋, My name is Ensar Mulahmetović </h1>
 
 <!--
 **Ensar01/Ensar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
