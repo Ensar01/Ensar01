@@ -34,10 +34,10 @@
 <h3  align="center">⬇ Click on the picture below to visit my LinkedIn profile ⬇</h3>
 <br>
 
-<p align="center">
+<div align="center">
   
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218) |
-</p>
+</div>
 
 <!--
 **Ensar01/Ensar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
