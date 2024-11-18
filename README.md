@@ -31,8 +31,10 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,webstorm,arduino,git,github,figma,azure,jira)
 <hr>
 
-Check out my LinkedIn profile:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
+<h3>Check out my LinkedIn profile:</h3>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
 
 
 <!--
