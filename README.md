@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, My name is Ensar Mulahmetović </h1>
 
-<p align="center"> <b> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology <\b><p>
+<p align="center"> <b> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology </b><p>
 
 <hr>
 
