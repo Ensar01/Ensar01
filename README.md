@@ -35,7 +35,7 @@
 <br>
 
 
-![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/ensar-mulahmetovi%C4%87-2584b7218)
 
 
 <!--
