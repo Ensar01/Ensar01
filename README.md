@@ -2,10 +2,14 @@
 
 <h3 align="center"> 🔧 Software Developer | 🎓 4th Year Software Engineering Student | 💻 Passionate about Technology  </h3> 
 
+<hr>
+
+<h4>
+  
+  I'm 23-year-old software developer, currently in my final year of studying Software Engineering at [FIT](https://www.fit.ba/) (Faculty of Information Technologies) in Mostar.  I enjoy developing innovative solutions, learning new technologies, and solving problems in creative ways.
+</h4>
+
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Ensar01%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Visitors&style=upper)
-
-<h4>I'm 23-year-old software developer, currently in my final year of studying Software Engineering at [FIT](https://www.fit.ba/) (Faculty of Information Technologies) in Mostar.  I enjoy developing innovative solutions, learning new technologies, and solving problems in creative ways.</h4>
-
 
 <!--
 **Ensar01/Ensar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
