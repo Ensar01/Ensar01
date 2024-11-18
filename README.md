@@ -18,6 +18,22 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,cs,cpp,python)
 <hr>
 
+<h3>Frameworks:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular)
+<hr>
+
+<h3>Databases:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite)
+<hr>
+
+<h3>Tools:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,webstorm,arduino,git,github,figma,azure,jira)
+<hr>
+
+
 <!--
 **Ensar01/Ensar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
