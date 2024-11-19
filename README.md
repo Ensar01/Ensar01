@@ -24,7 +24,7 @@
 
 <h3>Databases:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite,firebase)
 
 <h3>Tools:</h3>
 
