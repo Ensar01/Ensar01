@@ -19,7 +19,7 @@
 
 <h3>Frameworks:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,identity)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular)
 
 
 <h3>Databases:</h3>
