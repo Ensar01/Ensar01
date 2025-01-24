@@ -6,7 +6,7 @@
 
 <h4>
   
-  I'm 23-year-old software developer, currently in my final year of studying Software Engineering at [FIT](https://www.fit.ba/) (Faculty of Information Technologies) in Mostar.  I enjoy developing innovative solutions, learning new technologies, and solving problems in creative ways.
+  I'm 23-year-old software developer, currently in my final year of studying Software Engineering at [FIT](https://www.fit.ba/) (Faculty of Information Technologies) in Mostar.  I enjoy developing innovative solutions, learning new technologies and solving problems in creative ways.
 </h4>
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=Ensar01%2FViews-Counter&leftColor=400000&rightColor=ff8080&type=unique&sessionExpire=60&label=Visitors&style=upper)
